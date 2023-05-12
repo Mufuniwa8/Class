@@ -70,3 +70,12 @@ table {
     background-position: left center;
     background-size: 20px;
 }
+.box {
+    display: block;
+    border: 2px solid black;
+    width: 20%;
+    height: 2%px;
+    padding: 0px;
+    margin: auto;
+    
+}
